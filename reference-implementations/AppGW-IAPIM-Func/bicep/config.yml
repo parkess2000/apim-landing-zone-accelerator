@@ -1,5 +1,5 @@
 AZURE_LOCATION: 'westus2'
-RESOURCE_NAME_PREFIX: 'sarapim1'
+RESOURCE_NAME_PREFIX: 'sarapim3'
 ENVIRONMENT_TAG: 'dev'
 DEPLOYMENT_NAME: 'sar-demo-deployment'
 VM_USERNAME: 'agent'
