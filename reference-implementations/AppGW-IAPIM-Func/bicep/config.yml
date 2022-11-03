@@ -1,7 +1,7 @@
 AZURE_LOCATION: 'westus2'
-RESOURCE_NAME_PREFIX: 'sarapim3'
+RESOURCE_NAME_PREFIX: 'sarapim4'
 ENVIRONMENT_TAG: 'dev'
-DEPLOYMENT_NAME: 'sar-demo-deployment'
+DEPLOYMENT_NAME: 'sar4-demo-deployment'
 VM_USERNAME: 'agent'
 ACCOUNT_NAME: ${{secrets.ACCOUNT_NAME}}
 CICD_AGENT_TYPE: 'azuredevops'
